@@ -32,3 +32,5 @@ python main.py
 --- 
 FOR SKIDDERS
 HAPPY SKIDDING
+
++ thanks to wavelink and stackoverflow in cogs/music.py
